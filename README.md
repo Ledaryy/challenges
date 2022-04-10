@@ -3,4 +3,4 @@
 # Current version of python: 3.10.2
 
 # Challenges:
-1. Roman to Integer [EASY] [folder](https://github.com/Ledaryy/challenges/tree/master/leetcode/1)  [leetcode](https://leetcode.com/problems/roman-to-integer/)
+1. [EASY] Roman to Integer [folder](https://github.com/Ledaryy/challenges/tree/master/leetcode/1) || [leetcode](https://leetcode.com/problems/roman-to-integer/)
