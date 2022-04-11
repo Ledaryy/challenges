@@ -5,3 +5,4 @@
 # Coding challenges:
 1. [EASY]: "Roman to Integer", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/1) || [leetcode](https://leetcode.com/problems/roman-to-integer/)
 2. [EASY]: "Merge Two Sorted Lists", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/2) || [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)
+3. [EASY]: "Longest Common Prefix", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/3) || [leetcode](https://leetcode.com/problems/longest-common-prefix/)
