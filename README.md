@@ -8,3 +8,4 @@
 3. [EASY]: "Longest Common Prefix", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/3) || [leetcode](https://leetcode.com/problems/longest-common-prefix/)
 4. [EASY]: "Valid Parentheses", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/4) || [leetcode](https://leetcode.com/problems/valid-parentheses/)
 5. [EASY]: "Remove Duplicates from Sorted Array", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/5) || [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)
+6. [MEDIUM]: "Longest Substring Without Repeating Characters", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/6) || [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
