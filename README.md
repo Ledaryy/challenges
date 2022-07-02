@@ -7,3 +7,4 @@
 2. [EASY]: "Merge Two Sorted Lists", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/2) || [leetcode](https://leetcode.com/problems/merge-two-sorted-lists/)
 3. [EASY]: "Longest Common Prefix", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/3) || [leetcode](https://leetcode.com/problems/longest-common-prefix/)
 4. [EASY]: "Valid Parentheses", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/4) || [leetcode](https://leetcode.com/problems/valid-parentheses/)
+5. [EASY]: "Remove Duplicates from Sorted Array", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/5) || [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)

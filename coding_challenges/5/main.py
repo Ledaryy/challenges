@@ -1,31 +1,19 @@
+from typing import List
+
+
 def test_for_solution():
     solution = Solution()
-    answer = solution.isValid("()")
-    assert answer == True
-    answer = solution.isValid("()[]{}")
-    assert answer == True
-    answer = solution.isValid("(]")
-    assert answer == False
+    answer = solution.removeDuplicates([1, 1, 2])
+    # assert answer == [1,2]
+    assert answer == 2
+    answer = solution.removeDuplicates([0, 0, 1, 1, 1, 2, 2, 3, 3, 4])
+    # assert answer == [0,1,2,3,4]
+    assert answer == 5
 
 
 class Solution:
-    def isValid(self, s: str) -> bool:
-        stack = []
-        for char in s:
-            if char == "(" or char == "[" or char == "{":
-                stack.append(char)
-            elif char == ")" or char == "]" or char == "}":
-                if len(stack) == 0:
-                    return False
-                if char == ")" and stack[-1] == "(":
-                    stack.pop()
-                elif char == "]" and stack[-1] == "[":
-                    stack.pop()
-                elif char == "}" and stack[-1] == "{":
-                    stack.pop()
-                else:
-                    return False
-        return len(stack) == 0
+    def removeDuplicates(self, nums: List[int]) -> int:
+        return len(set(nums))
 
 
 if __name__ == "__main__":
@@ -33,4 +21,4 @@ if __name__ == "__main__":
         test_for_solution()
         print("All tests passed")
     except Exception as e:
-        print(e)
+        raise e
