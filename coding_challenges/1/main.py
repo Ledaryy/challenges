@@ -15,7 +15,7 @@ class Solution:
             "L": 50,
             "C": 100,
             "D": 500,
-            "M": 1000
+            "M": 1000,
         }
 
         integer_numbers_list = list(s)
@@ -26,8 +26,9 @@ class Solution:
         # [10, 10, 1, 5]
         for i in range(len(integer_numbers_list) - 1):
             if integer_numbers_list[i] < integer_numbers_list[i + 1]:
-                integer_numbers_list[i + 1] = integer_numbers_list[i +
-                                                                   1] - integer_numbers_list[i]
+                integer_numbers_list[i + 1] = (
+                    integer_numbers_list[i + 1] - integer_numbers_list[i]
+                )
                 integer_numbers_list[i] = 0
 
         return sum(integer_numbers_list)
