@@ -20,7 +20,7 @@ class Solution:
         left = 0
         seen = {}
         output = 0
-        
+
         for right, curr in enumerate(s):
             if curr in seen:
                 left = max(left, seen[curr] + 1)
