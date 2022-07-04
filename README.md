@@ -10,3 +10,4 @@
 5. [EASY]: "Remove Duplicates from Sorted Array", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/5) || [leetcode](https://leetcode.com/problems/remove-duplicates-from-sorted-array/submissions/)
 6. [MEDIUM]: "Longest Substring Without Repeating Characters", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/6) || [leetcode](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
 7. [EASY]: "Valid Palindrome II", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/7) || [leetcode](https://leetcode.com/problems/valid-palindrome-ii/)
+8. [EASY]: "Pascal's Triangle", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/8) || [leetcode](https://leetcode.com/problems/pascals-triangle/)
