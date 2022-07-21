@@ -1,6 +1,3 @@
-from audioop import reverse
-
-
 def test_for_solution():
     solution = Solution()
     answer = solution.longestCommonPrefix(["flower", "flow", "flight"])

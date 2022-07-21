@@ -1,6 +1,3 @@
-import re
-
-
 def test_for_solution():
     solution = Solution()
     answer = solution.lengthOfLongestSubstring("abcabcbb")

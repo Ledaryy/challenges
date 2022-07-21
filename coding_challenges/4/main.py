@@ -1,11 +1,11 @@
 def test_for_solution():
     solution = Solution()
     answer = solution.isValid("()")
-    assert answer == True
+    assert answer is True
     answer = solution.isValid("()[]{}")
-    assert answer == True
+    assert answer is True
     answer = solution.isValid("(]")
-    assert answer == False
+    assert answer is False
 
 
 class Solution:

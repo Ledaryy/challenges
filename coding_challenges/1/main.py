@@ -25,15 +25,15 @@ class Solution:
 
         # [10, 10, 1, 5]
         for i in range(len(integer_numbers_list) - 1):
+
             if integer_numbers_list[i] < integer_numbers_list[i + 1]:
-                integer_numbers_list[i + 1] = (
-                    integer_numbers_list[i + 1] - integer_numbers_list[i]
-                )
+                integer_numbers_list[i + 1] = integer_numbers_list[i + 1] - integer_numbers_list[i]
                 integer_numbers_list[i] = 0
 
         return sum(integer_numbers_list)
 
 
 if __name__ == "__main__":
+
     test_for_converter()
     print("All tests passed")

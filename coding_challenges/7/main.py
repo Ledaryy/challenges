@@ -1,11 +1,11 @@
 def test_for_solution():
     solution = Solution()
     answer = solution.validPalindrome("aba")
-    assert answer == True
+    assert answer is True
     answer = solution.validPalindrome("abca")
-    assert answer == True
+    assert answer is True
     answer = solution.validPalindrome("abc")
-    assert answer == False
+    assert answer is False
 
 
 class Solution:
