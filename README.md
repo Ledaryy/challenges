@@ -16,3 +16,4 @@
 7. [EASY]: "Valid Palindrome II", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/7) || [leetcode](https://leetcode.com/problems/valid-palindrome-ii/)
 8. [EASY]: "Pascal's Triangle", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/8) || [leetcode](https://leetcode.com/problems/pascals-triangle/)
 9. [EASY]: "Reverse String", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/9) || [leetcode](https://leetcode.com/problems/reverse-string/)
+10. [EASY]: "Best Time to Buy and Sell Stock", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/10) || [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
