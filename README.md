@@ -19,3 +19,4 @@
 10. [EASY]: "Best Time to Buy and Sell Stock", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/10) || [leetcode](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 11. [EASY]: "Intersection of Two Linked Lists", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/11) || [leetcode](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 12. [EASY]: "Contains Duplicate", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/12) || [leetcode](https://leetcode.com/problems/contains-duplicate/)
+13. [EASY]: "Fizz Buzz", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/13) || [leetcode](https://leetcode.com/problems/fizz-buzz/)
