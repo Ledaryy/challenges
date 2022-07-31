@@ -20,3 +20,4 @@
 11. [EASY]: "Intersection of Two Linked Lists", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/11) || [leetcode](https://leetcode.com/problems/intersection-of-two-linked-lists/)
 12. [EASY]: "Contains Duplicate", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/12) || [leetcode](https://leetcode.com/problems/contains-duplicate/)
 13. [EASY]: "Fizz Buzz", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/13) || [leetcode](https://leetcode.com/problems/fizz-buzz/)
+14. [EASY]: "Palindrome Linked List", links: [folder](https://github.com/Ledaryy/challenges/tree/master/coding_challenges/14) || [leetcode](https://leetcode.com/problems/palindrome-linked-list/)
